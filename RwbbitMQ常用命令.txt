@@ -1,0 +1,10 @@
+"C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.8\sbin\rabbitmqctl.bat"
+enable rabbitmq_management #使用RabbitMQ 管理插件
+net stop RabbitMQ && net start RabbitMQ #重启服务
+list_users #列出所以用户 
+add_user username password #新增用户
+set_user_tags username administrator #设置用户管理员权限
+change_password userName newPassword #修改密码
+delete_user username #删除用户
+list_exchanges #运行有用的消息交换机
+list_bindings #binding列表数据

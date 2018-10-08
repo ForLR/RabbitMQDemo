@@ -1,0 +1,11 @@
+F:\工作文件夹\Working\MQ\bin\Debug\MQ.exe.config
+F:\工作文件夹\Working\MQ\bin\Debug\MQ.exe
+F:\工作文件夹\Working\MQ\bin\Debug\MQ.pdb
+F:\工作文件夹\Working\MQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\工作文件夹\Working\MQ\bin\Debug\RabbitMQ.Client.dll
+F:\工作文件夹\Working\MQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\工作文件夹\Working\MQ\bin\Debug\RabbitMQ.Client.xml
+F:\工作文件夹\Working\MQ\obj\Debug\MQ.csproj.CoreCompileInputs.cache
+F:\工作文件夹\Working\MQ\obj\Debug\MQ.csproj.CopyComplete
+F:\工作文件夹\Working\MQ\obj\Debug\MQ.exe
+F:\工作文件夹\Working\MQ\obj\Debug\MQ.pdb
